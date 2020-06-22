@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "johnsmith@gmail.com",
+    "gender": "male",
+    "phone": "011-456-6078"
+    },
+  {
+    "id": 2,
+    "firstName": "Jimmy",
+    "lastName": "Fallon",
+    "email": "jimmy@gmail.com",
+    "gender": "male",
+    "phone": "016-455-6088"
+  },
+  {
+    "id": 3,
+    "firstName": "Kim",
+    "lastName": "Jong Un",
+    "email": "kim@gmail.com",
+    "gender": "male",
+    "phone": "011-400-6000"
+  },
+  {
+   "id": 4,
+    "firstName": "Steve",
+    "lastName": "Jobs",
+    "email": "stevejobs@gmail.com",
+    "gender": "male",
+    "phone": "019-111-5050"
+  },
+  {
+    "id": 5,
+    "firstName": "Ben",
+    "lastName": "R",
+    "email": "ben@deriv.com",
+    "gender": "male",
+    "phone": "016-231-0101"
+  },
+  {
+    "id": 6,
+    "firstName": "Liyana",
+    "lastName": "Shirin",
+    "email": "liyana@gmail.com",
+    "gender": "female",
+    "phone": "019-498-9025"
+  },
+  {
+    "id": 7,
+    "firstName": "John",
+    "lastName": "Snow",
+    "email": "johnsnow@hotmail.com",
+    "gender": "male",
+    "phone": "011-420-6969"
+  },
+  {
+    "id": 8,
+    "firstName": "Ral",
+    "lastName": "Shirin",
+    "email": "ral@gmail.com",
+    "gender": "female",
+    "phone": "019-613-9000"
+  },
+  {
+    "id": 9,
+    "firstName": "Saf",
+    "lastName": "Zakhir",
+    "email": "saf@gmail.com",
+    "gender": "female",
+    "phone": "012-560-1298
+  },
+  {
+    "id": 10,
+    "firstName": "Sam",
+    "lastName": "Zakhir",
+    "email": "sam@gmail.com",
+    "gender": "female",
+    "phone": "012-202-1298
+  }
+]
